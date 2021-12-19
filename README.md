@@ -1,6 +1,6 @@
 # Project for Python Class. 
 
-We made two speech generators by finetuning openai's gpt model.
+We made two speech generators by fine-tuning the pretrained openai gpt model. 
 
 We trained one model on Trump's tweets and another on his campaign speeches from 2016.
 
