@@ -8,4 +8,8 @@ Use the Generate_texts file to run the models.
 
 Trump_Speech_Generator_final shows how we trained the two models. 
 
+Corpus_trump_speeches.json is the dataset containing the 2016 rally speeches. 
+
+Trump_insults.json is the dataset containing the tweets. 
+
 Akhil, Koen, Milan, Jose 
