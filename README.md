@@ -1,6 +1,6 @@
 # Project for Python Class. 
 
-We made two speech generators by fine-tuning the pretrained openai gpt model. 
+We made two speech generators by fine-tuning Open Ai's GPT 2 model, accessed through the Hugging Face API. 
 
 We trained one model on Trump's tweets and another on his campaign speeches from 2016.
 
